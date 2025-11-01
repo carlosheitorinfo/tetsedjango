@@ -7,3 +7,4 @@ def produtos(request):
     return render(request,'produtos.html')
 def clientes(request):
     return render(request,'clientes.html')
+
